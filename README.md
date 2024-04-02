@@ -105,5 +105,4 @@ Create a new file sudo vim /web/html/nginx-2420/index.html and add the following
 
 Now, you should be able to access the demo document by navigating to your server's IP address in a web browser.
 
-```![rafeel](https://github.com/RafeelG/nginx-2420/assets/148383119/1d541ea8-cd50-45f6-a6e1-db656bc20bbc)
-![rafeel](https://github.com/RafeelG/nginx-2420/assets/148383119/fba356f9-2f8a-41bb-84bc-8f32e60b1f3c)
+```
