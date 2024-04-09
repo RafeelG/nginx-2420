@@ -1,10 +1,10 @@
 # Make-up Assignment Instructions
 
 ## Step 1: install Necessary Software
-'''
+```bash
 sudo pacman -Syu
 sudo pacman -S nginx
-'''
+```
 ### This is to update your packages and install nginx as well as vim
 
 ## Step 2: Create Directories
