@@ -61,3 +61,5 @@ sudo touch my_file.txt
 ## Step 8: Test your server 
 ### To test your server your ip address into the browser; you should see a list of files in the /srv/2420-files directory
 
+
+![makeup-picture](https://github.com/RafeelG/nginx-2420/assets/148383119/c2135514-5085-4f20-ab89-10ee5b7dab14)
