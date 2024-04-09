@@ -1,7 +1,7 @@
 # Make-up Assignment Instructions
 
 ## Step 1: install Necessary Software
-'''bash 
+'''
 sudo pacman -Syu
 sudo pacman -S nginx
 '''
